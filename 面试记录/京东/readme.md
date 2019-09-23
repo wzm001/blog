@@ -10,7 +10,7 @@
 ## 总结一下这次面试问到的知识点：
 1. Java 多线程，线程池的参数以及意义，并发工具类；
 2. Java 容器，ArrayList，CopyOnWriteArrayList，HashMap，ConcurrentHashMap，深入到源码；
-3. MySQL 索引，锁，读写时如何加锁，有什么影响；深度分页如何处理；事务隔离；```select * from xxx where name = 'aa' order by code desc ```这个SQL如何创建索引；性能优化；
+3. MySQL 索引，锁，读写时如何加锁，有什么影响；事务隔离；```select * from xxx where name = 'aa' order by code desc limit 10000,10;```这个SQL如何创建索引, 如何处理深度分页；性能优化；
 4. Hibernate: 一级缓存/二级缓存如何使用，有什么注意事项，什么时候会把结果加到缓存中，更新数据库记录后Hibernate如何处理缓存；
 5. MyBatis 单客户端统计QPS，多客户端单DB统计QPS；
 6. Redis的数据结构，给一个业务场景（订单系统），如何用 Redis 实现；Redis实现分布式锁；RDB和AOF持久化方式；
