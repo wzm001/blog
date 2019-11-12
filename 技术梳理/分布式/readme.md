@@ -16,3 +16,4 @@ communicate and coordinate their actions only by passing messages." (分布式�
 - [详解RPC远程调用和消息队列MQ的区别](https://juejin.im/post/5c3486caf265da615705a8b9)
 - [spring微服务架构设计与轻量级微服务架构及最佳部署](https://juejin.im/post/5ae9ce71f265da0ba266ce55)
 - [大型分布式网站架构实战项目分析](https://zhuanlan.zhihu.com/p/62229232)
+- [远程调用服务(RPC)和消息队列(Message Queue)对比及其适用/不适用场合分析](https://blog.csdn.net/cfydaniel/article/details/44621163)
