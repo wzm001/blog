@@ -12,4 +12,7 @@ communicate and coordinate their actions only by passing messages." (分布式�
 - [大型分布式网站架构技术总结](https://www.cnblogs.com/itfly8/p/4967966.html)
 - [浅谈大型分布式Web系统的架构演进](https://juejin.im/post/5b4c4e566fb9a04f83464102)
 - [我理解的分布式系统](https://juejin.im/post/5c7cd6eee51d457c042d4b52)
-
+- [为什么需要分布式配置中心](https://blog.csdn.net/xlgen157387/article/details/82840553)
+- [详解RPC远程调用和消息队列MQ的区别](https://juejin.im/post/5c3486caf265da615705a8b9)
+- [spring微服务架构设计与轻量级微服务架构及最佳部署](https://juejin.im/post/5ae9ce71f265da0ba266ce55)
+- [大型分布式网站架构实战项目分析](https://zhuanlan.zhihu.com/p/62229232)
